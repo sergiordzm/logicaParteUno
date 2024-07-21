@@ -31,3 +31,5 @@ let name = "Sergio";
 const lastName = "Rodriguez";
 let number = 10;
 let boolean = true;
+console.log("¡Hola, JavaScript!");
+console.log(typeof name);
